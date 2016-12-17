@@ -1,3 +1,3 @@
 class happy {
-  notify {"This is a happy test module!"}
+  notify {"This is a happy test module!":}
 }
